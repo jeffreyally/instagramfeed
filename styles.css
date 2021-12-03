@@ -1,0 +1,84 @@
+* {
+	box-sizing: border-box;
+}
+
+body,
+html {
+	margin: 0;
+	height: 100%;
+	width: 100%;
+	overflow: auto;
+	background-color: black;
+}
+
+#mainwrapper {
+	position: relativetive;
+	height: 100%;
+	width: 100%;
+	overflow: auto;
+}
+
+.headingbox {
+	position: fixed;
+	background-color: yellow;
+	height: 10%;
+	width: 98.6%;
+	border: 1px solid;
+}
+
+h1 {
+	font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+	text-align: center;
+}
+
+.backgroundboxwithposts {
+	width: 100%;
+	height: 90%;
+	margin-top: 8%;
+}
+
+.postbox {
+	background-color: white;
+	margin-left: 25%;
+	margin-right: 25%;
+	width: 50%;
+	height: 75%;
+	border: 1px solid;
+}
+
+.postheaderbox {
+	margin-left: 25%;
+	margin-right: 25%;
+	width: 50%;
+	height: auto;
+}
+
+.postimage {
+	margin-left: 25%;
+	margin-right: 25%;
+	width: 50%;
+	height: 70%;
+	border: 1px solid;
+}
+
+.postfooterbox {
+	margin-left: 25%;
+	margin-right: 25%;
+	width: 50%;
+	height: auto;
+}
+
+.puppy {
+	height: 100%;
+	width: 100%;
+}
+
+.sloth {
+	height: 100%;
+	width: 100%;
+}
+
+.tacos {
+	height: 100%;
+	width: 100%;
+}
